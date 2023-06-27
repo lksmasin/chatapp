@@ -3,7 +3,7 @@ import threading
 
 # IP adresa a port, na kterém bude server naslouchat
 HOST = '0.0.0.0'  # Naslouchá na všech dostupných síťových rozhraních
-PORT = 45945
+PORT = 8080
 
 # Získání veřejné IP adresy serveru
 def get_public_ip():
